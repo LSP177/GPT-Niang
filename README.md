@@ -1,7 +1,23 @@
 # GPT-Niang（GPT 娘）
 
-> 🧡 **本 fork 新增：[小克 · Claude 桌面版挂件](claude-xiaoke/)**——把 GPT 娘的 Windows 挂件移植到 Claude 桌面版，角色换成 Claude 拟人「小克」，气泡显示今日花费与缓存命中率。
+## 🧡 本 fork 新增：小克 · Claude 桌面版挂件
+
+<img src="claude-xiaoke/assets/xiaoke-bust.png" alt="小克" width="160" align="right">
+
+把 GPT 娘的 Windows 挂件移植到 **Claude 桌面版**，角色换成 Claude 拟人「小克」，气泡显示今日花费与缓存命中率。
+
+**安装小克（Windows 10 / 11，需要 Claude 桌面版和 Node.js 20+）：**
+
+1. 点本页右上方绿色的 **Code → Download ZIP**，解压。
+2. 把其中的 **`claude-xiaoke`** 文件夹放到准备长期保留的位置。
+3. 双击 `claude-xiaoke` 里的 **`install.cmd`**，打开 Claude 桌面版即可看到小克。
+
+详细说明、让 AI 帮你安装、许可与致谢见 **[claude-xiaoke/README.md](claude-xiaoke/)**。
+
+> ⚠️ **下方「下载最新版」、Windows / macOS 安装说明都属于原版 GPT 娘（Codex 版），不是小克。**
 > 以下是原项目 [T7moris/GPT-Niang](https://github.com/T7moris/GPT-Niang) 的说明，原样保留。
+
+---
 
 让一只白发紫瞳的小龙娘，陪你看 Codex 的剩余额度。
 
