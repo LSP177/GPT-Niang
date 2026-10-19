@@ -1,5 +1,8 @@
 # GPT-Niang（GPT 娘）
 
+> 🧡 **本 fork 新增：[小克 · Claude 桌面版挂件](claude-xiaoke/)**——把 GPT 娘的 Windows 挂件移植到 Claude 桌面版，角色换成 Claude 拟人「小克」，气泡显示今日花费与缓存命中率。
+> 以下是原项目 [T7moris/GPT-Niang](https://github.com/T7moris/GPT-Niang) 的说明，原样保留。
+
 让一只白发紫瞳的小龙娘，陪你看 Codex 的剩余额度。
 
 **Windows / macOS 桌面挂件 · 自动识别套餐与额度窗口 · 中文语录 · Windows 当前正式版 1.3.5（macOS 最新 1.3.4）**
