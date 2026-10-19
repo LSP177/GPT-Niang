@@ -71,4 +71,4 @@ Claude 没有公开的额度接口，只靠本地记录只能猜额度百分比�
 - 花费估算与价格表：移植自 [Hatk3451/xiaoke-cc](https://github.com/Hatk3451/xiaoke-cc)，MIT，见 [LICENSE.xiaoke-cc](LICENSE.xiaoke-cc)。
 - 台词：来自 xiaoke-cc，上游 [aklnaaw/dsh-xiaoke-widget](https://github.com/aklnaaw/dsh-xiaoke-widget) 与 [MeteorNOX/DeepSeek-Balance-Whale-Widget](https://github.com/MeteorNOX/DeepSeek-Balance-Whale-Widget)，MIT，见 [assets/quotes-LICENSE.txt](assets/quotes-LICENSE.txt)。
 - 按压音效 `press.wav` / `release.wav` 来自 GPT-Niang。
-- 角色图 `assets/xiaoke-bust.png`：改编自 **ZipZipPipe** 的 Claude 拟人「小克」三视图，**CC BY-NC-SA 4.0**（署名、不可商用、相同方式共享），见 [assets/CHARACTER-NOTICE.txt](assets/CHARACTER-NOTICE.txt)。图片不适用代码的 MIT 许可。
+- 角色图 `assets/xiaoke-bust.png`：角色设计来自 **ZipZipPipe** 画的 Claude 拟人「小克」主视图（bilibili）；侧面 / 背面由 AI 补全，再绘制成 Q 版半身。**CC BY-NC-SA 4.0**（署名、不可商用、相同方式共享），见 [assets/CHARACTER-NOTICE.txt](assets/CHARACTER-NOTICE.txt)。图片不适用代码的 MIT 许可。
