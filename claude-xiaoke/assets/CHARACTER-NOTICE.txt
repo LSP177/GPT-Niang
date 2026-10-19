@@ -20,7 +20,8 @@ CC BY-NC-SA 4.0
 
   角色设计：ZipZipPipe —— Claude 拟人「小克」主视图（正面），
             按 CC BY-NC-SA 4.0 发布
-  出处链接：待补充（ZipZipPipe 在 bilibili 发布；如果你知道原发布页面，欢迎开 issue 告诉我们）
+  作者主页：https://space.bilibili.com/4168597 （bilibili）
+  使用确认：作者已于 2026-10-19 通过 bilibili 私信确认，同意非商业用途。
 
   改编过程：
     1. LSP177 以 ZipZipPipe 的主视图为基础，用 Seedance（AI）生成侧面、背面视图；
